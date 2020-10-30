@@ -45,11 +45,4 @@ print(cidades)
 # f = 9/5 * c +32
 # Lambda
 
-
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> a64efccf2e9bdc33226f49ffc47daade6b92a20b
 print(list(map(lambda dado: (dado[0], (9 / 5) * dado[1] + 32), cidades)))
